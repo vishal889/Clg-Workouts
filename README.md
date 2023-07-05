@@ -23,7 +23,7 @@ This is a simple project brought into life by c++ language , Created for fun and
 - [x] 3. Arthematic Operations : Addition , Subtraction , Multiplication , Division
 
 
-## Project Clases easy view :
+## Project Classes easy view :
 | Classes | Lines | Content |
 | -------- | -------- | -------- |
 | Function Class   | 10   | Console Designer-(baisc)   |
